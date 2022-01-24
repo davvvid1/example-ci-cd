@@ -1,1 +1,1 @@
-uname -a
+docker ps -a
